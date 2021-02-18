@@ -18,4 +18,4 @@ Ostatnim krokiem była doświadczalna weryfikacja działania układu oraz próba
 * Testowe oprogramowanie
 
 # Weryfikacja działania
-[https://drive.google.com/file/d/1y4KWzrLdbeENvkOfH9YcUIEn7dakh6ji/view?usp=sharing]
+https://drive.google.com/file/d/1y4KWzrLdbeENvkOfH9YcUIEn7dakh6ji/view?usp=sharing
