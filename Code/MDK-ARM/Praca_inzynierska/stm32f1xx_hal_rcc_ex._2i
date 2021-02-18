@@ -1,0 +1,6 @@
+--c99 -c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../FATFS/Target -I ../FATFS/App -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FatFs/src -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include
+-I.\RTE\_Praca_inzynierska
+-ID:\Programy\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include
+-ID:\Programy\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include
+-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_HD -DUSE_HAL_DRIVER -DSTM32F103xE
+-o praca_inzynierska\stm32f1xx_hal_rcc_ex.o --omf_browse praca_inzynierska\stm32f1xx_hal_rcc_ex.crf --depend praca_inzynierska\stm32f1xx_hal_rcc_ex.d --feedback "Praca_inzynierska\Praca_inzynierska.fed" "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c"
