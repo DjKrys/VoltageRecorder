@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="IMG_20210121_102907.jpg" />
+</p>
 
 # VoltageRecorder
 Celem projektu było zaprojektowanie, montaż i uruchomienie wielokanałowego rejestratora danych do precyzyjnego pomiaru napięcia(The aim of the project was to design, assemble and launch Multi-channel data logger for precise voltage measurement). My engineer's thesis.
